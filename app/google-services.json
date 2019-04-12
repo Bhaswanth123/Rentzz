@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "657171149137",
+    "firebase_url": "https://rentzz.firebaseio.com",
+    "project_id": "rentzz",
+    "storage_bucket": "rentzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657171149137:android:9b6964b96fe49048",
+        "android_client_info": {
+          "package_name": "com.example.rentzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657171149137-h0kngnmggtu4m4qeil7pl45mu9hb4876.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentzz",
+            "certificate_hash": "15bc62ff8b07be2b7e543f8a9e79f808246b0299"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVSj0bRhB6Lbi_6QN7qNzo9FHFxTojdas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657171149137-6c061g2ta1ukuu607i47tur2e5on44jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

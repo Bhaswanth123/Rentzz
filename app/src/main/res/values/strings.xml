@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rentzz</string>
+    <string name="email_id">Email id</string>
+    <string name="password">password</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_up">sign_up</string>
+
+    <string name="registration">Registration</string>
+    <string name="enter_name">Enter name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="enter_a_email_id">Enter a email id</string>
+    <string name="enter_a_password">Enter a password</string>
+    <string name="singing_in">singing in</string>
+    <string name="already_user_sing_in">Already user sing in</string>
+
+</resources>
